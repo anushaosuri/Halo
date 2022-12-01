@@ -1,0 +1,55 @@
+1/12/22
+---------
+Recepit Email Id
+Subject:test email
+Body:
+Hi Anusha,
+[for  problem]
+Good Morning!Hope you are doing good!
+I'm student in Sathya Technologies from O-batch rollno-17.
+I have attend an exam today with x company & I got this problem.
+
+
+Problem Description
+Input
+Excepted Output
+
+
+
+Thanks,
+Siva Prakash
+sathya Technologies Student
+MobileNumber
+=============================================================================================
+[for leave]
+Subject:Requesting approval 2 days leave
+
+Hi Prakash,
+I'm Anusha from Sathya Technologies from O-batch rollno-17.
+ This email is to inform you that about leave starting 1st dec 2022
+to 3rd dec 2022.I,m not keeping well & I request to grant approval for leave,
+
+Thanks,
+Anusha,
+Sathya Technologies Student
+9898989898
+
+=====================================================================================================
+Projects
+1.CalculatorApp
+   src
+       calculator
+            (i/p num1,num2)
+       calculatormanager
+                  (create object for calculator,
+                   performSum(),
+                   performSub(),
+                   performMul(),
+                   performDiv())
+                    Display()
+sum of num1&num2=sum
+classes
+
+
+2.BankApp
+3.BillApp

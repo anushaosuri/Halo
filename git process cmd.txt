@@ -1,0 +1,21 @@
+
+
+git init
+
+git add README.md
+
+git commit -m "Halo project first commit"
+
+git branch -M main
+
+git remote add origin https://github.com/anushaosuri/Halo.git
+
+git push -u origin main
+
+
+git config --globa 
+
+
+ git config --global user.email "anushaosuri89@gmail.com"
+  git config --global user.name "anushaosuri"
+
